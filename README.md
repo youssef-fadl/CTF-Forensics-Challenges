@@ -4,22 +4,22 @@
 ## This repository contains a growing set of Capture The Flag (CTF) challenges focused on Digital Forensics.
 ## Whether you're a beginner or intermediate learner, you'll find practical problems involving:
 
-### Metadata extraction
+#### Metadata extraction
 
-### PCAP traffic analysis
+#### PCAP traffic analysis
 
-### File carving and recovery
+#### File carving and recovery
 
-### Steganography techniques
+#### Steganography techniques
 
-### Memory dump analysis
+#### Memory dump analysis
 
-### Hidden data & obfuscation
+#### Hidden data & obfuscation
 
-### Each challenge comes with:
+#### Each challenge comes with:
 
-### A description of the problem
+#### A description of the problem
 
-### Required files (if any)
+#### Required files (if any)
 
-### A full walkthrough / solution
+#### A full walkthrough / solution
